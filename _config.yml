@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Merlin Bittlinger"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Fellow @questbih pondering about the ethics of epistemic belief || Translational Research || Neuroethics || Meta-Research "
+  location         : "Berlin"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Merlin+Bittlinger"
   googlescholar    : "https://scholar.google.com/citations?user=roP0fDIAAAAJ&hl"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Merlin_Bittlinger"
   uri              :
   bitbucket        :
   codepen          :
