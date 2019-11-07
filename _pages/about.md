@@ -15,7 +15,7 @@ The value clinical research is to facilitate patient well-being.
 
 To understand how these values are interconnected, we must acknowledge that it matters ethically what we think to know. 
 
-Translation Research
+Research Ethics perspectives
 ======
 The ethics of epistemic belief play an important role in translational research.
 
