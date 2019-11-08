@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-“In like manner, if I let myself believe anything on insufficient evidence, there may be no great harm done by the mere belief; it may be true after all, or I may never have occasion to exhibit it in outward acts. But I cannot help doing this great wrong towards Man, that I make myself credulous. The danger to society is not merely that it should believe wrong things, though that is great enough; but that it should become credulous, and lose the habit of testing things and inquiring into them; for then it must sink back into savagery.”
+“But,” says one, “I am a busy man; I have no time for the long course of study which would be necessary to make me in any degree a competent judge of certain questions, or even able to understand the nature of the arguments.”
+
+Then he should have no time to believe.” 
 
 ― William Kingdon Clifford, The Ethics of Belief and Other Essays 
