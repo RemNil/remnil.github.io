@@ -1,6 +1,7 @@
 ---
 title: "Epistemic normativity in Translational Research"
 collection: publications
+date: 2018-10-01
 venue: 'Cambridge Quarterly of Healthcare Ethics'
 ---
 This paper is about why it matters what we believe as researchers and why there is a normative component to it.
