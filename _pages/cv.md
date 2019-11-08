@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /cv/
+title: Education
 author_profile: true
 redirect_from:
   - /resume
