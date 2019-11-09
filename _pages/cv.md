@@ -12,7 +12,7 @@ redirect_from:
 
 * B.Sc. in Cognitive Science, Universität Osnabrück, 2009
 * M.A. in Philosophy, Humboldt University Berlin, 2015
-* Dr. rer. medic., Charité - Universitätsmedizin Berlin, 2019/2020 (expected)
+* Doctorate candidate (expected: Dr. rer. medic., Charité - Universitätsmedizin Berlin, 2019/2020)
 
 Memberships
 ======
