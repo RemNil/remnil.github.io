@@ -20,5 +20,4 @@ Memberships
 * German Network for [Evidence-Based Medicine e.V.](https://www.ebm-netzwerk.de/de/)
 * Verein der Freunde und Förderer des Instituts für Kognitionswissenschaft e.V.
 
-
-[`Download as pdf`](https://github.com/RemNil/remnil.github.io/blob/master/files/CV_Bittlinger.pdf)
+[Download as pdf](https://remnil.github.io/files/CV_Bittlinger.pdf)
