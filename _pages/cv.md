@@ -21,4 +21,4 @@ Memberships
 * Verein der Freunde und Förderer des Instituts für Kognitionswissenschaft e.V.
 
 
-[`Download as pdf`](../files/CV_Bittinger.pdf)
+[`Download as pdf`](https://github.com/RemNil/remnil.github.io/blob/master/files/CV_Bittlinger.pdf)
