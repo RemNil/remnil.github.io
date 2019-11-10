@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[`Download as pdf`](../files/CV_Bittinger.pdf)
-
 {% include base_path %}
 
 * Doctoral candidate (expected: Dr. rer. medic., Charité - Universitätsmedizin Berlin, 2019/2020)
@@ -21,3 +19,6 @@ Memberships
 * Gesellschaft für [Analytische Philosophie e.V.](https://www.gap-im-netz.de/en/)
 * German Network for [Evidence-Based Medicine e.V.](https://www.ebm-netzwerk.de/de/)
 * Verein der Freunde und Förderer des Instituts für Kognitionswissenschaft e.V.
+
+
+[`Download as pdf`](../files/CV_Bittinger.pdf)
