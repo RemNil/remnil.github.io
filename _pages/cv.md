@@ -7,10 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 [`Download as pdf`](../files/CV_Bittinger.pdf)
 
+{% include base_path %}
 
 * Doctoral candidate (expected: Dr. rer. medic., Charité - Universitätsmedizin Berlin, 2019/2020)
 * M.A. in Philosophy, Humboldt University Berlin, 2015
