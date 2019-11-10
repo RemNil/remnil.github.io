@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[`Download as pdf`](../files/CV_Bittinger.pdf)
 
 * B.Sc. in Cognitive Science, Universität Osnabrück, 2009
 * M.A. in Philosophy, Humboldt University Berlin, 2015
