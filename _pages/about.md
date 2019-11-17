@@ -12,4 +12,4 @@ redirect_from:
 
 Then he should have no time to believe.” 
 
-― William Kingdon Clifford, The [Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/) and Other Essays 
+― William Kingdon Clifford, 1877, The [Ethics of Belief](https://plato.stanford.edu/entries/ethics-belief/) and Other Essays 
