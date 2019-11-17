@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Merlin Bittlinger"
   avatar           : "Merlin_Bittlinger.png"
-  bio              : "Research Fellow <li><a href="https://www.bihealth.org/de/forschung/quest-center/projekte/translationale-bioethik/good-justificatory-practices-projekt/" target="@questbih</a></li> pondering about the ethics of epistemic belief || Translational Research || Neuroethics || Meta-Research "
+  bio              : "Research Fellow [https://www.bihealth.org/de/forschung/quest-center/projekte/translationale-bioethik/good-justificatory-practices-projekt/](@questbih) pondering about the ethics of epistemic belief || Translational Research || Neuroethics || Meta-Research "
   location         : "Berlin"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Merlin+Bittlinger"
@@ -258,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
