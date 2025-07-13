@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
   - title: "Test.Learn.Repeat"
     url: /TestLearnRepeat/
     
-#- title: "Guide"
-# url: /markdown/
+  - title: "Dossier-Graph"
+   url: /Dossier-Graph/
 
 # - title: "Talks"
 #    url: /talks/    
