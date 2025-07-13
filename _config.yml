@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Merlin Bittlinger"
+title                    : "NilRem"
 title_separator          : "-"
-name                     : &name "Merlin Bittlinger"
+name                     : &name "MerLin NilRem"
 description              : &description "personal description"
 url                      : https://remnil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,10 +73,10 @@ google_analytics: UA-152701378-1
 
 # Site Author
 author:
-  name             : "Merlin Bittlinger"
-  avatar           : "Merlin_Bittlinger.png"
-  bio              : "Research Fellow @questbih pondering about the ethics of epistemic belief || Translational Research || Neuroethics || Meta-Research "
-  location         : "Berlin"
+  name             : "MerLin NilRem"
+  avatar           : "Merlin.png"
+  bio              : "Independent free-time research enthusiast @ the intersection of the ethics of epistemic belief || Clinical Research || Data Science || Meta-Research "
+  location         : "Universe"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Merlin+Bittlinger"
   publons          : "https://publons.com/researcher/1403461/merlin-bittlinger/"
