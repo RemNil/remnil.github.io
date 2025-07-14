@@ -117,11 +117,11 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
-  - _dossier-graph
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - _dossier-graph
+  - files
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
@@ -276,7 +276,7 @@ plugins:
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-gist
   #- jekyll-feed
   - jemoji
